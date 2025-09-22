@@ -9,36 +9,6 @@ Hello! I’m **Arnav Dixit**, a passionate Full-Stack Developer and AI/ML enthus
 
 ---
 
-## Project Structure
-
-Here’s how my portfolio project is organized:
-
-portfolio-root/
-│
-├─ backend/ # Node.js + Express backend
-│ ├─ server.js # Entry point for backend
-│ ├─ routes/ # API routes
-│ ├─ controllers/ # Route logic and controllers
-│ ├─ models/ # Database schemas
-│ └─ package.json
-│
-├─ frontend/ # React / Tailwind CSS frontend
-│ ├─ public/ # Static files like profile.jpg, favicon
-│ ├─ src/
-│ │ ├─ components/ # Hero, About, Projects, Contact components
-│ │ ├─ data/ # Profile, skills, project info
-│ │ ├─ App.jsx
-│ │ └─ main.jsx
-│ ├─ package.json
-│ └─ tailwind.config.js
-│
-├─ .gitignore # Ignored files (node_modules, env, build)
-├─ README.md # This file
-└─ package.json # Optional root package.json
-
-
----
-
 ## Skills
 
 **Full-Stack Development:** MERN Stack (MongoDB, Express, React, Node), Angular, Vue, Next.js, Spring Boot, Django, JSP, Servlets  
