@@ -5,7 +5,9 @@
 ---
 
 ## About Me
+
 Hello! I’m Arnav Dixit, a passionate Full-Stack Developer and AI/ML enthusiast who loves turning ideas into intelligent software solutions. I specialize in building scalable, user-centric web applications and AI-powered tools that solve real-world problems. From designing dynamic web apps to crafting AI-driven solutions, I enjoy creating projects that are both functional and innovative. My goal is to leverage technology to simplify complex problems, enhance user experiences, and make a meaningful impact through code.
+
 ---
 
 ## Skills
